@@ -126,3 +126,5 @@ if fic.close() :
     print("fichier fermé")
 else :
     print("fichier ouvert")
+
+print("la fin de ma modif")
