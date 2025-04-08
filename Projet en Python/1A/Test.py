@@ -1,5 +1,4 @@
-
-Seance 1
+#Seance 1
 age = 12
 nom = "amine"
 taille = 1.78
