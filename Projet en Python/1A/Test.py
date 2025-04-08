@@ -1,4 +1,4 @@
-"""
+
 Seance 1
 age = 12
 nom = "amine"
@@ -6,7 +6,7 @@ taille = 1.78
 est_etudiant = False or True
 print(age, nom, est_etudiant)
 print(type(nom))
-"""
+
 
 """"
 "Liste = ["algebre", "Zoolo", "analyse", "proba", "prog"]
